@@ -6,12 +6,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-blue)
-![GitHub last commit](https://github.com/ybhavanareddy/wikipedia-search-app.git)
+
 
 
 A simple yet powerful **Wikipedia Search Application** built with *HTML, CSS, JavaScript, and Bootstrap*.  
 This app fetches Wikipedia articles via a **REST API** and displays results with **title, link, and description** in a clean, user-friendly interface.  
 
+## 🚀 Live Demo
+🔗 [View Website](https://wikipedia-search-app-six.vercel.app/)  
 
 ---
 
