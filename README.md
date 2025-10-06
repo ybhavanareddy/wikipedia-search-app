@@ -56,7 +56,7 @@ wikipedia-search-app/
 
 1.  Clone the repository
 ```bash
-git clone https://github.com/your-username/wiki-search-app.git
+git clone https://github.com/ybhavanareddy/wikipedia-search-app.git
 ```
 
 2.  Navigate into project folder
